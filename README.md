@@ -53,6 +53,8 @@ Developers
 
 We have included a makefile with convenience methods for working with the Bootstrap library.
 
+If you have [npm](http://npmjs.org/) installed, you can get the less compiler by running `npm install -g less`.
+
 + **build** - `make`
 This will run the less compiler on the bootstrap lib and regenerate the docs dir.
 The lessc compiler is required for this command to run.
